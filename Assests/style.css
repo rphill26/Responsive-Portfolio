@@ -1,0 +1,25 @@
+body{
+    margin: 0 auto;
+}
+
+.my-header-row{
+    border-bottom: grey solid 2px;
+    width: 100%;
+    margin: 0 auto;
+}
+.col-header{
+    color:white;
+    background: teal;
+    padding-top: 10px;
+}
+
+.col-navbar{
+    color: grey;
+    padding-top: 10px;
+}
+
+
+.content-header{
+  padding-top: 30px;
+  padding-left: 30px;
+}
