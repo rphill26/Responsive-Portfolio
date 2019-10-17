@@ -45,8 +45,19 @@ html,body{
     margin-top: .3rem;
     margin-bottom: 1rem;
 }
+#slides{
+    margin-bottom: 70px;
+}
+#second-paragraph{
+    margin-bottom: 70px;
+}     
+
 .footer{
     background: grey;
     color: white;
     padding-top: 2rem;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    position: fixed;
 }
