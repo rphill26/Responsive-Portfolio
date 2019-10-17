@@ -16,6 +16,24 @@ html,body{
     height: 100%;
     width: 100%;
 }
+.carousel-caption{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.carousel-caption h1{
+    font-size: 200%;
+    text-transform:uppercase;
+}
+.carousel-caption h3{
+    font-weight: 800;
+}
+.caption-1{
+    color: #222222;
+}
+.smaller-caption{
+    color: #222222;
+}
 .title{
     width: 75%;
     margin: 0 auto;
@@ -27,7 +45,7 @@ html,body{
     margin-top: .3rem;
     margin-bottom: 1rem;
 }
-.sticky-footer{
+.footer{
     background: grey;
     color: white;
     padding-top: 2rem;
