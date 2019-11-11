@@ -12,13 +12,17 @@ html,body{
 .nav-link{
     font-size: 1.1em !important;
 }
+#homework-section{
+    text-align: left;
+    line-break: loose;
+}
 .carousel-inner img{
     height: 100%;
     width: 100%;
 }
 .carousel-caption{
     position: absolute;
-    top: 50%;
+    top: 81%;
     transform: translateY(-50%);
 }
 .carousel-caption h1{
@@ -29,10 +33,10 @@ html,body{
     font-weight: 800;
 }
 .caption-1{
-    color: #222222;
+    color: yellow;
 }
 .smaller-caption{
-    color: #222222;
+    color: yellow;
 }
 .title{
     width: 75%;
