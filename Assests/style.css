@@ -16,6 +16,10 @@ html,body{
     text-align: left;
     line-break: loose;
 }
+#project-section{
+    text-align: right;
+    line-break: loose;
+}
 .carousel-inner img{
     height: 100%;
     width: 100%;
